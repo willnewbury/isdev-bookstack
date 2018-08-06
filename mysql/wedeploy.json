@@ -1,0 +1,13 @@
+{
+  "id": "mysql",
+  "image": "mysql:5.7.21",
+  "volumes": {
+    "mysql": "/var/lib/mysql"
+  },
+  "env": {
+    "MYSQL_ROOT_PASSWORD": "isdev",
+    "MYSQL_DATABASE": "bookstack",
+    "MYSQL_USER": "bookstack",
+    "MYSQL_PASSWORD": "isdev"
+  }
+}
