@@ -10,5 +10,8 @@
     "MYSQL_USER": "bookstack",
     "MYSQL_PASSWORD": "isdev"
   },
+  "port": 0,
+  "cpu": 2,
+  "memory": 8192,
   "zeroDowntime": true
 }

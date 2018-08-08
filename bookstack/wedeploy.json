@@ -11,5 +11,7 @@
     "storage": "/var/www/bookstack/public/storage"
   },
   "port": 8080,
+  "cpu": 2,
+  "memory": 8192,
   "dependencies": ["mysql"]
 }
