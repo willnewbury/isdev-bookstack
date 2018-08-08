@@ -28,7 +28,7 @@ COPY docker-entrypoint.sh /
 
 WORKDIR $BOOKSTACK_HOME
 
-EXPOSE 80
+EXPOSE 8080
 
 ENTRYPOINT ["/docker-entrypoint.sh"]
 

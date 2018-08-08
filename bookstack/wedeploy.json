@@ -1,6 +1,5 @@
 {
   "id": "bookstack",
-  "image": "solidnerd/docker-bookstack:0.23.0",
   "env": {
     "DB_HOST": "mysql:3306",
     "DB_DATABASE": "bookstack",

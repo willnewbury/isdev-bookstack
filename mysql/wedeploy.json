@@ -10,5 +10,5 @@
     "MYSQL_USER": "bookstack",
     "MYSQL_PASSWORD": "isdev"
   },
-  "zeroDowntime": false
+  "zeroDowntime": true
 }
