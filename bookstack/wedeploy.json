@@ -10,7 +10,7 @@
     "uploads": "/var/www/bookstack/public/uploads",
     "storage": "/var/www/bookstack/public/storage"
   },
-  "port": 8080,
+  "port": 80,
   "cpu": 2,
   "memory": 8192,
   "dependencies": ["mysql"]
